@@ -39,7 +39,6 @@
         "mikey179/vfsstream": "1.6.*",
         "phpunit/phpunit": "^7.0",
 		"mockery/mockery": "^1.0",
-		"codeigniter4/codeigniter4": "dev-develop",
       	"codeigniter4/translations": "dev-develop",
 		"sebastian/phpcpd": "^2.0"
     },
